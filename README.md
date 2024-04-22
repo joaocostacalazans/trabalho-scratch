@@ -12,7 +12,7 @@ O jogo "JetScratch Joyride" foi desenvolvido para a disciplina Laboratório de I
 
 1. Descrição do Jogo:
 
-   "JetScratch Joyride" é um jogo de ação em que os jogadores controlam Barry, persongem que voa em uma perigosa fábrica. A principal mecânica do jogo envolve desviar  de foguetes (rockets) e correntes de eletricidade (zappers) enquanto coleta moedas e tenta voar o máximo possível pelos setores da indústria.
+   "JetScratch Joyride" é um jogo de ação em que os jogadores controlam Barry, personagem que voa em uma perigosa fábrica. A principal mecânica do jogo envolve desviar  de foguetes (rockets) e correntes de eletricidade (zappers) enquanto coleta moedas e tenta voar o máximo possível pelos setores da indústria.
 
 2. Elementos Utilizados:
 
